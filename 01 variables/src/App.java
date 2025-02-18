@@ -1,3 +1,18 @@
+/**
+ * Variables    =   a reusable container for a value.
+ *                  a variable behaves as if it was the value it contains
+ * 
+ * primitive    =   simple value stored directly in memory (stack)
+ * reference    =   memory address (stack) that points to the heap
+ * 
+ *  primitive   |   reference
+ *  int         |   string   
+ *  double      |   array
+ *  char        |   object
+ *  boolean     |   
+ * 
+ */
+
 public class App {
     public static void main(String[] args) throws Exception {
         // int
